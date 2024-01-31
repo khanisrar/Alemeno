@@ -1,0 +1,282 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "Introduction to React",
+      "thumbnail": "https://www.shutterstock.com/image-photo/elearning-education-internet-lessons-online-600nw-2158034833.jpg",
+      "instructor": "John Doe",
+      "description": "React is a powerful JavaScript library for building dynamic user interfaces. Developed by Facebook, it enables efficient creation of interactive and scalable UI components. With a declarative syntax and component-based architecture.",
+      "enrollmentStatus": "Open",
+      "duration": "8 weeks",
+      "schedule": "Mon, Wed, Fri 10:00 AM - 12:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "syllabus": [
+        "React Basics",
+        "Components and Props",
+        "State and Lifecycle",
+        "Handling Events"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Node.js Fundamentals",
+      "thumbnail": "https://images.inc.com/uploaded_files/image/1920x1080/getty_933383882_2000133420009280345_410292.jpg",
+      "instructor": "Jane Smith",
+      "description": "Node.js is a server-side JavaScript runtime that allows developers to build scalable and efficient network applications. Leveraging the V8 JavaScript engine, Node.js facilitates non-blocking I/O operations, making it ideal for creating fast and lightweight web servers. ",
+      "enrollmentStatus": "In Progress",
+      "duration": "6 weeks",
+      "schedule": "Tue, Thu 2:00 PM - 4:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "JavaScript"
+      ],
+      "syllabus": [
+        "Introduction to Node.js",
+        "Node Modules",
+        "Express.js",
+        "Asynchronous Programming"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Python for Beginners",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsJ4xETIFZX9DF_DHh3_temTaw8PWa-jTTKzDvYdpF9DN_KLuvuOHp5LEDMaDyr1JnJDw&usqp=CAU",
+      "instructor": "Alice Johnson",
+      "description": "Python for Beginners provides an accessible entry into programming. Known for its simplicity and readability, Python is perfect for newcomers. Learn fundamental concepts, syntax, and problem-solving techniques, setting.",
+      "enrollmentStatus": "Open",
+      "duration": "10 weeks",
+      "schedule": "Sat, Sun 11:00 AM - 1:00 PM",
+      "location": "Online",
+      "prerequisites": [],
+      "syllabus": [
+        "Introduction to Python",
+        "Data Types",
+        "Control Flow",
+        "Functions"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Web Development with Django",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsJ4xETIFZX9DF_DHh3_temTaw8PWa-jTTKzDvYdpF9DN_KLuvuOHp5LEDMaDyr1JnJDw&usqp=CAU",
+      "instructor": "Bob Anderson",
+      "description": "Embark on a journey into web development with Django, a high-level Python framework. Django simplifies building robust, scalable web applications by emphasizing rapid development and clean, pragmatic design. From creating models and views to handling forms and databases.",
+      "enrollmentStatus": "Closed",
+      "duration": "12 weeks",
+      "schedule": "Mon, Wed 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Python"
+      ],
+      "syllabus": [
+        "Django Basics",
+        "Models and Databases",
+        "Views and Templates",
+        "Forms and Authentication"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Data Science with R",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzJeVSDZYLZVMgZkrm0FV-YdtRhHJmvTMkSPWk19ttXelnVbiDU2HEfgU1e2Ror5sSw54&usqp=CAU",
+      "instructor": "Emma Davis",
+      "description": "Explore the world of Data Science with R, a powerful statistical programming language. Learn data manipulation, visualization, and analysis techniques, harnessing R's rich ecosystem of packages. Develop skills in statistical modeling and machine learning, empowering.",
+      "enrollmentStatus": "Open",
+      "duration": "9 weeks",
+      "schedule": "Tue, Thu 3:00 PM - 5:00 PM",
+      "location": "Online",
+      "prerequisites": [],
+      "syllabus": [
+        "Introduction to Data Science",
+        "Data Wrangling",
+        "Statistical Analysis",
+        "Data Visualization"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Mobile App Development with Flutter",
+      "thumbnail": "https://media.istockphoto.com/id/1366428092/photo/webinar-e-learning-skills-business-internet-technology-concepts-training-webinar-e-learning.webp?b=1&s=170667a&w=0&k=20&c=qjK4h0qt4W_NNG8TmboGw8RDRv8TNzEoFM_JEDZ1Ah0=",
+      "instructor": "Charlie Brown",
+      "description": "Dive into Mobile App Development with Flutter, a cross-platform framework powered by Dart. Flutter allows developers to create beautiful and responsive mobile applications with a single codebase. Build natively compiled, high-performance apps for iOS and Android.",
+      "enrollmentStatus": "Open",
+      "duration": "10 weeks",
+      "schedule": "Sat, Sun 2:00 PM - 4:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Dart Programming"
+      ],
+      "syllabus": [
+        "Introduction to Flutter",
+        "Widgets and Layouts",
+        "State Management",
+        "API Integration"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Machine Learning Fundamentals",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQHl0JmRGEVdpSk8H6OgQvUemZogldytkstNOqUXKqWuA4PqQBjWdlzbLrq-3JXNTe0w&usqp=CAU",
+      "instructor": "David Miller",
+      "description": "Delve into Machine Learning Fundamentals and unlock the power of automated learning. This introductory journey covers key concepts, algorithms, and techniques, empowering you to build predictive models. From supervised to unsupervised learning, grasp the essentials.",
+      "enrollmentStatus": "In Progress",
+      "duration": "8 weeks",
+      "schedule": "Mon, Wed 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Python",
+        "Statistics"
+      ],
+      "syllabus": [
+        "Introduction to Machine Learning",
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Evaluation and Metrics"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Cybersecurity Essentials",
+      "thumbnail": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y291cnNlc3xlbnwwfHwwfHx8MA%3D%3D",
+      "instructor": "Eva White",
+      "description": "Cybersecurity Essentials provides a foundational understanding of crucial principles in safeguarding digital assets. Covering topics such as encryption, network security, and threat mitigation, this course equips learners with essential skills to protect information systems from cyber threats.",
+      "enrollmentStatus": "Closed",
+      "duration": "12 weeks",
+      "schedule": "Tue, Thu 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Network Basics"
+      ],
+      "syllabus": [
+        "Introduction to Cybersecurity",
+        "Network Security",
+        "Cryptography",
+        "Security Policies"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Advanced JavaScript Concepts",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFDwWnoRDVozrxwhWcjZrO98Plqt_z0UzwmQ&usqp=CAU",
+      "instructor": "Frank Taylor",
+      "description": "Dive into Advanced JavaScript Concepts, exploring the intricacies of the language. Covering closures, prototypes, async programming, and more, this course enhances your understanding of JavaScript's advanced features. Gain the skills needed to write efficient, scalable code.",
+      "enrollmentStatus": "Open",
+      "duration": "8 weeks",
+      "schedule": "Sat, Sun 4:00 PM - 6:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "JavaScript Fundamentals"
+      ],
+      "syllabus": [
+        "Closures and Scopes",
+        "Asynchronous JavaScript",
+        "ES6 and Beyond",
+        "Design Patterns"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Artificial Intelligence Applications",
+      "thumbnail": "https://www.shutterstock.com/image-photo/elearning-education-internet-lessons-online-600nw-2158034833.jpg",
+      "instructor": "Grace Adams",
+      "description": "Artificial Intelligence Applications unveils the transformative impact of AI across various domains. This course explores real-world applications, from natural language processing to computer vision and robotics. Discover how AI is revolutionizing industries, automating tasks, and paving. ",
+      "enrollmentStatus": "Open",
+      "duration": "10 weeks",
+      "schedule": "Wed, Fri 3:00 PM - 5:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Machine Learning Fundamentals"
+      ],
+      "syllabus": [
+        "Natural Language Processing",
+        "Computer Vision",
+        "AI in Healthcare",
+        "Ethical Considerations"
+      ]
+    }
+  ],
+  "enrolledCourses": [
+    {
+      "id": "6e55",
+      "name": "Introduction to React",
+      "thumbnail": "https://www.shutterstock.com/image-photo/elearning-education-internet-lessons-online-600nw-2158034833.jpg",
+      "instructor": "John Doe",
+      "description": "React is a powerful JavaScript library for building dynamic user interfaces. Developed by Facebook, it enables efficient creation of interactive and scalable UI components. With a declarative syntax and component-based architecture.",
+      "enrollmentStatus": "in-progress",
+      "duration": "8 weeks",
+      "schedule": "Mon, Wed, Fri 10:00 AM - 12:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "syllabus": [
+        "React Basics",
+        "Components and Props",
+        "State and Lifecycle",
+        "Handling Events"
+      ],
+      "userid": "1",
+      "dueDate": "2024-03-15",
+      "progress": 0
+    },
+    {
+      "id": "8a24",
+      "name": "Node.js Fundamentals",
+      "thumbnail": "https://images.inc.com/uploaded_files/image/1920x1080/getty_933383882_2000133420009280345_410292.jpg",
+      "instructor": "Jane Smith",
+      "description": "Node.js is a server-side JavaScript runtime that allows developers to build scalable and efficient network applications. Leveraging the V8 JavaScript engine, Node.js facilitates non-blocking I/O operations, making it ideal for creating fast and lightweight web servers. ",
+      "enrollmentStatus": "in-progress",
+      "duration": "6 weeks",
+      "schedule": "Tue, Thu 2:00 PM - 4:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "JavaScript"
+      ],
+      "syllabus": [
+        "Introduction to Node.js",
+        "Node Modules",
+        "Express.js",
+        "Asynchronous Programming"
+      ],
+      "userid": "1",
+      "dueDate": "2024-03-15",
+      "progress": 0
+    },
+    {
+      "id": "4",
+      "name": "Web Development with Django",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsJ4xETIFZX9DF_DHh3_temTaw8PWa-jTTKzDvYdpF9DN_KLuvuOHp5LEDMaDyr1JnJDw&usqp=CAU",
+      "instructor": "Bob Anderson",
+      "description": "Embark on a journey into web development with Django, a high-level Python framework. Django simplifies building robust, scalable web applications by emphasizing rapid development and clean, pragmatic design. From creating models and views to handling forms and databases.",
+      "enrollmentStatus": "in-progress",
+      "duration": "12 weeks",
+      "schedule": "Mon, Wed 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Python"
+      ],
+      "syllabus": [
+        "Django Basics",
+        "Models and Databases",
+        "Views and Templates",
+        "Forms and Authentication"
+      ],
+      "userid": "1",
+      "dueDate": "2024-03-15",
+      "progress": 0
+    }
+  ],
+  "profile": {
+    "userid": "1",
+    "name": "Israr Khan",
+    "email": "israr@gmail.com",
+    "avatar": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1706486400&semt=ais"
+  }
+}
